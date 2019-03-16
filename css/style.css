@@ -47,6 +47,11 @@ nav a:hover {
   text-decoration: underline;
 }
 
+nav a:active {
+  color: #eed821;
+  text-decoration: underline;
+}
+
 .arrow {
   position: absolute;
   bottom: 40px;
