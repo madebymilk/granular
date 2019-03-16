@@ -273,6 +273,14 @@ button:hover {
 /* Mobile styles */
 
 @media screen and (max-width: 740px) {
+
+  .scroll-effect {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
   nav {
     position: static;
     padding: 50px 0 0 0;
