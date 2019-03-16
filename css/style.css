@@ -181,6 +181,10 @@ footer a {
 
 /* About page styling */
 
+.about-header {
+  background-image: url(../images/three.jpg);
+}
+
 /* Filter Gallery */
 
 .filter-gallery p {
