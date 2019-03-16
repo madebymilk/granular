@@ -293,4 +293,9 @@ button:hover {
   input[type="email"], input[type="submit"] {
     width: 100%;
   }
+
+  .gallery-image {
+    margin: 0;
+  }
+
 }
